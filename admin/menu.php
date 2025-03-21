@@ -12,7 +12,7 @@
 		<div class="navbar-header">
 				<a  class="navbar-brand" href="../../index.php">
 					<span class="fa fa-id-card"></span>
-						Gestion des stagiaires
+						Gestion des stagiaires Courant
 				</a>
 		</div>
 
