@@ -27,9 +27,9 @@
 						<button type="submit" class="btn btn-primary btn-block">Se connecter</button>
 						<br>
 						
-						<a href="page_add_utilisateur.php">Créer mon compte</a>
+						<a href="page_add_utilisateur.php">Create an account</a>
 						&nbsp&nbsp&nbsp&nbsp&nbsp
-						<a href="page_demande_pwd.php">Mot de passe oublié</a>
+						<a href="page_demande_pwd.php">Password forgot</a>
 						
 					</form>
 				</div>
